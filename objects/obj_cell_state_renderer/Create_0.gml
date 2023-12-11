@@ -61,19 +61,3 @@ for (var column = 0; column < gridColumns; column++){
 		if(tilemap_get(waterTM, column, row)) buffer_poke(gridBuffer, cellAsInt + 3, buffer_u8, 255);
 		}
 	}
-	
-//Intro steps:
-
-//1. Welcome message w/ joke
-
-//2. What are we talking about today? 
-
-//3. Show quick demo, "if you want to see a better looking example check out the demo of my game (shameless self promo), link in..."
-
-//4. Caveat on whether you're new to shaders (intermediate tutorial)
-
-//5. Why is this important/useful?
-
-//6. What are the limitations?
-
-//7. Start tutorial.
