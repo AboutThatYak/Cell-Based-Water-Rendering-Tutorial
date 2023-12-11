@@ -4,4 +4,4 @@ Want to make a cool, stylized-water shader for your Gamemaker game but don't kno
 
 Video tutorial:
 
-[![YouTube](https://i.ytimg.com/vi/a4S7LXx6-sQ/hqdefault.jpg)](https://youtu.be/5Bn3kCeCP8g)]
+[![Video](https://img.youtube.com/vi/5Bn3kCeCP8g/maxresdefault.jpg)](https://www.youtube.com/watch?v=5Bn3kCeCP8g)
